@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "theme.name": "Your theme name here",
+    "theme.kind": "Light",
+    "theme.version": 8
+  },
+  "colors": {
+  },
+  "palette": {
+  }
+}
