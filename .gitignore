@@ -9,3 +9,5 @@ config
 system
 
 fleetDistribution/
+.kotlin/sessions
+java_pid*.hprof
